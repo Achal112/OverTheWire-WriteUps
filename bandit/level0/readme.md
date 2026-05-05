@@ -60,7 +60,7 @@ bandit0
 ```
 ---
 
-![task](<img width="982" height="753" alt="image" src="https://github.com/user-attachments/assets/112a837d-7777-4e33-890e-fef6f52f1abf" />)
+![task](images/o-1.png)
 
 ---
 
