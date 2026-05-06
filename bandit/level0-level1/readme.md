@@ -105,20 +105,9 @@ Passwords are **not saved automatically**.
 
 If passwords are lost, you may need to restart from Level 0.
 
----
+Passwords obtained during the OverTheWire Bandit challenges are intentionally not included in this repository.
 
-## Keep Notes
-Documenting:
-- Commands used
-- Steps taken
-- Problems faced
-- Solutions found
-
-helps in:
-- Revision
-- Building cybersecurity habits
-- Creating GitHub portfolios
-- Helping others learn
+I store challenge passwords locally on my personal system for learning continuity and progress tracking only.
 
 ---
 
