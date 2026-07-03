@@ -83,10 +83,7 @@ Use this password to log in to **Bandit Level 4**.
 
 ## 📸 Screenshot
 
-
-```markdown
-![Bandit Level 3 to Level 4](images/b3.png)
-```
+![](images/b3.png)
 
 ---
 
