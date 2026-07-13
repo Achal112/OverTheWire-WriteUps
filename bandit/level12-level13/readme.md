@@ -370,7 +370,7 @@ Password
 
 ### Create Temporary Directory
 
-![Create Temporary Directory](images/b11-1.png)
+![Create Temporary Directory](images/b12-1.png)
 
 ### Decompression Process
 
