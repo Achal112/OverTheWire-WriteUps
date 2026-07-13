@@ -149,7 +149,3 @@ Using `./` tells Linux that it is a file in the current directory, not a command
 - Using the `file` command to determine file types.
 - Identifying human-readable files.
 - Reading file contents with `cat`.
-
----
-
-**Next Level:** Bandit Level 5 → Level 6
