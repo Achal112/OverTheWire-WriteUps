@@ -299,7 +299,7 @@ cat data8
 **Output**
 
 ```text
-The password is qYQRYI0BPBR8zR61qXqQ45quvihF2uzk
+The password is qYQRYiH0BPBR8zR61qXqQ45quvihF2uzk
 ```
 
 This is the password for **Bandit Level 13**.
@@ -385,7 +385,7 @@ Password
 ## 🔑 Password
 
 ```text
-qYQRYI0BPBR8zR61qXqQ45quvihF2uzk
+qYQRYiH0BPBR8zR61qXqQ45quvihF2uzk
 ```
 
 ---
