@@ -106,12 +106,14 @@ Because of its flexibility, Netcat is often referred to as the **"Swiss Army Kni
 Include the following screenshots (with the password redacted):
 
 1. Successful login to `bandit14`
-   ![login](images/login-b14.png)
+   
+![login](images/login-b14.png)
    
 3. Executing `nc localhost 30000`
 5. Submitting the password to the service
 6. Receiving the success message and next-level password
-   ![login](images/b14-15.png)
+   
+![login](images/b14-15.png)
 
 ---
 
